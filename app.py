@@ -4,17 +4,17 @@ import re
 
 # Language mapping dictionary
 LANGUAGE_MAPPING = {
-    'bn-IN': 'Bengali',
+    # 'bn-IN': 'Bengali',
     'en-IN': 'English',
-    'gu-IN': 'Gujarati',
+    # 'gu-IN': 'Gujarati',
     'hi-IN': 'Hindi',
-    'kn-IN': 'Kannada',
-    'ml-IN': 'Malayalam',
-    'mr-IN': 'Marathi',
-    'od-IN': 'Odia',
-    'pa-IN': 'Punjabi',
+    # 'kn-IN': 'Kannada',
+    # 'ml-IN': 'Malayalam',
+    # 'mr-IN': 'Marathi',
+    # 'od-IN': 'Odia',
+    # 'pa-IN': 'Punjabi',
     'ta-IN': 'Tamil',
-    'te-IN': 'Telugu'
+    # 'te-IN': 'Telugu'
 }
 
 # Streamlit app title
